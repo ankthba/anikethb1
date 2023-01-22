@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 Hey, I'm Aniketh
+
+- 🔭 Cofounder and currently working on @OralCancerRadar
+- 💻 Expanding skillsets in Python, Java, JS, and Web dev
+- 🌱 Currently learning Swift, C, and C++
+- ✨ Fun facts:
+  - 📸 I'm a published photogropher
+  - 🛫 Tech and Avgeek
+- 📫 Reach me at aniketh@duck.com
 
 <!--
 **anikethb1/anikethb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
