@@ -1,6 +1,7 @@
 👋 Hey, I'm Aniketh
 
-- 🔭 Cofounder and currently working on @OralCancerRadar
+- 👨‍💻 Cofounder and currently working on @OralCancerRadar 
+- 📄 Cofounder and tech at STEMquire
 - 💻 Expanding skillsets in Python, Java, JS, and Web dev
 - 🌱 Currently learning Swift, C, and C++
 - ✨ Fun facts:
