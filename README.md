@@ -5,7 +5,7 @@
 - 💻 Expanding skillsets in Python, C, C++, Java, JS, and Web dev
 - 🌱 Currently learning Swift
 - ✨ Fun facts:
-  - 📸 I'm a published photogropher
+  - 📸 I'm a photogropher
   - 🛫 Tech and Avgeek
 - 📫 Reach me at aniketh@duck.com
 
