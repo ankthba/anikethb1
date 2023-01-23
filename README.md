@@ -2,8 +2,8 @@
 
 - 🔭 Cofounder and currently working on @OralCancerRadar 
 - 📄 Cofounder and tech at STEMquire
-- 💻 Expanding skillsets in Python, Java, JS, and Web dev
-- 🌱 Currently learning Swift, C, and C++
+- 💻 Expanding skillsets in Python, C, C++, Java, JS, and Web dev
+- 🌱 Currently learning Swift
 - ✨ Fun facts:
   - 📸 I'm a published photogropher
   - 🛫 Tech and Avgeek
