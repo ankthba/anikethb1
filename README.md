@@ -1,6 +1,5 @@
 👋 Hey, I'm Aniketh
 
-- 🔭 Cofounder and currently working on @OralCancerRadar 
 - 💻 Python, C, C++, Java, JS, and Web dev
 - 🌱 Currently learning Swift
 - ✨ Fun facts:
