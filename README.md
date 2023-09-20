@@ -5,7 +5,7 @@
 - ✨ Fun facts:
   - 📸 I'm a photogropher
   - 🛫 Tech and Avgeek
-- 📫 Reach me at aniketh@duck.com
+- 📫 Reach me at aniketh.contact@gmail.com
 
 <!--
 **anikethb1/anikethb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
