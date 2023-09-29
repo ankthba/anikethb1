@@ -1,11 +1,11 @@
-👋 Hey, I'm Aniketh
+hi, i'm aniketh!
 
-- 💻 Python, C, C++, Java, JS, and Web dev
-- 🌱 Currently learning Swift
-- ✨ Fun facts:
-  - 📸 I'm a photogropher
-  - 🛫 Tech and Avgeek
-- 📫 Reach me at aniketh.contact@gmail.com
+08
+infj
+
+c++, java, python, js, html, css
+
+currently learning swift
 
 <!--
 **anikethb1/anikethb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
