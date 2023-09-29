@@ -1,10 +1,11 @@
 hi, i'm aniketh!
-/n
-08/n
+
+08
+
 infj
-/n
+
 c++, java, python, js, html, css
-/n
+
 currently learning swift
 
 <!--
