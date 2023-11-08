@@ -1,9 +1,4 @@
-hi, i'm aniketh!
-
-- 08
-- infj
-- c++, java, python, js, html, css
-- currently learning swift
+c++, c, java, python, js, html, css
 
 <!--
 **anikethb1/anikethb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
