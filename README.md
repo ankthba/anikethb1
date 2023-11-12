@@ -1,4 +1,4 @@
-java, c++, c, python, js, html, css, swift
+experience in: java, c++, c, python, js, html, css, swift
 
 <!--
 **anikethb1/anikethb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
